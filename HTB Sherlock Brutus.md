@@ -1,6 +1,4 @@
-# Security-Writeups
-
-## *HTB Sherlock - Brutus | Entry Level | DFIR*
+# **HTB Sherlock - Brutus | Entry Level | DFIR**
 
 The task is to analyse an SSH brute-force attack against a server. The attacker gained root access and later 
 created a new user with escalated privileges. We are given an auth.log file, a wtmp file, and a Python script. 
